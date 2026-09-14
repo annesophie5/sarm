@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: "Contact"
 order: 3
+in_menu: true
 ---
+Pour nous contacter : [sarm@posteo.net](mailto:sarm@posteo.net)
 
-L'Échappée Belle est actuellement composée de 6 membres.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Ce site a été construit grâce à Scribouilli [Scribouilli](https://https://scribouilli.org/). 
