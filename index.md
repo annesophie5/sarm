@@ -1,8 +1,14 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 1
+in_menu: true
 ---
+# Survivre au réchauffement médiatique
 
-# L'Échappée Belle
+_« **Lutter contre le réchauffement médiatique**, c’est vouloir sortir du **brouhaha** et laisser la place aux sujets essentiels auxquels nous devrions consacrer l’ensemble de notre système médiatique, politique, professionnel, éducatif. **Lutter contre le réchauffement médiatique**, c’est permettre aux différentes paroles, qu’elles soient portées par les artistes, les services sociaux, les journalistes, les historiennes, les avocates, les enfants eux-mêmes, d’advenir sans être parasitées ou étouffées. **Lutter contre le réchauffement médiatique**, c’est aider ces paroles à devenir les lances qui finiront par vaincre l’incurie de la classe politique. »_
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Après avoir baignée dix ans dans le flux de l’information pour Arrêt sur images, la journaliste et autrice Anne-Sophie Jacques nous raconte sa diète médiatique et propose un repli collectif, salvateur, à l’ombre de nos communautés choisies. Ce récit incarné, à la croisée de l’enquête journalistique et du manuel militant, ouvre des voies de réflexion pour des actions poético-politiques et vise l’utopie réaliste.
+
+Libertalia - 10 euros - en librairie le 19 septembre 2026
+
+![couverture livre Survivre au réchauffement médiatique]({% link images/SARM-Couv.jpg %}) 
