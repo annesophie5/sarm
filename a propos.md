@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-order: 4
+order: 3
 in_menu: true
 ---
 #### C'est quoi ce site ? 
