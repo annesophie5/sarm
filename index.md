@@ -11,4 +11,4 @@ Après avoir baignée dix ans dans le flux de l’information pour Arrêt sur im
 
 Libertalia - 10 euros - en librairie le 19 septembre 2026
 
-![couverture livre Survivre au réchauffement médiatique]({% link images/SARM-Couv.jpg %}) 
+![Couverture du livre devant une bibliothèque]({% link images/Bibliothèque.JPG %}) 
