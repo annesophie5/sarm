@@ -9,7 +9,7 @@ _« **Lutter contre le réchauffement médiatique**, c’est vouloir sortir du 
 
 Après avoir baignée dix ans dans le flux de l’information pour Arrêt sur images, la journaliste et autrice Anne-Sophie Jacques nous raconte sa diète médiatique et propose un repli collectif, salvateur, à l’ombre de nos communautés choisies. Ce récit incarné, à la croisée de l’enquête journalistique et du manuel militant, ouvre des voies de réflexion pour des actions poético-politiques et vise l’utopie réaliste.
 
-Libertalia - 10 euros - en librairie le 18 septembre 2026
+[Libertalia](https://librairielibertalia.com/products/survivre-au-rechauffement-mediatique) - 10 euros - en librairie le 18 septembre 2026
 
 ![Livre devant une bibliothèque]({% link images/Bibliotheque.jpg %})
 
