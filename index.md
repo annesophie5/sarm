@@ -11,6 +11,6 @@ Après avoir baignée dix ans dans le flux de l’information pour Arrêt sur im
 
 Libertalia - 10 euros - en librairie le 18 septembre 2026
 
-![Livre devant une bibliothèque]({% link images/Bibliotheque.jpg %}) 
+![Livre devant une bibliothèque]({% link images/Bibliotheque.jpg %})
 
-Découvrir le sommaire du livre 👀 
+Découvrir [le sommaire du livre 👀](https://sarm-lelivre.fr/2026/09/17/sommaire-du-livre.html) 
