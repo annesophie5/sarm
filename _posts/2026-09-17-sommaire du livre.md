@@ -1,7 +1,7 @@
 ---
 title: "Sommaire du livre"
 ---
-Pour vous faire une idée du contenu de ce livre de 238 pages, en voici le sommaire dont je ne suis pas peu fière :
+Pour vous faire une idée du contenu de ce livre de 238 pages, en voici le sommaire :
 
 #### Introduction
 
