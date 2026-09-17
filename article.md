@@ -1,5 +1,5 @@
 ---
-title: "Le bon vieux blog"
+title: "Article"
 order: 1
 in_menu: true
 blog_index: true
