@@ -1,5 +1,5 @@
 ---
-title: "Contribuer à ce site !"
+title: "Contribuer à ce site (venez, c'est ouvert)"
 ---
 #### _"Seul·e on va plus vite, ensemble on va plus loin"_
 
