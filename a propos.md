@@ -17,6 +17,8 @@ Parce que je suis pas sur les réseaux sociaux et que j'ai tout de même envie q
 
 Cet essai a été écrit en très peu de temps, de mars à juillet 2026 (deux mois de préparation et de recherches, deux mois d'écriture, un mois de corrections). Pourquoi un tel timing ? Parce qu'il y a urgence à s'emparer de notre rapport aux écrans et à l'actualité. Ce livre est tout sauf une injonction à se déconnecter. Au contraire, le récit veille à ne pas juger, à ne pas culpabiliser, à comprendre du mieux possible l'écosystème dans lequel nous naviguons (à vue). Il invite à prendre soin de notre attention pour la réinvestir dans les sujets hautement brûlants. 
 
+![couverture du livre]({% link images/SARM-Couv.jpg %})
+
 #### Qui est l'autrice ? 
 
 C'est moi ! Je suis journaliste et autrice, et après avoir baignée dix ans dans le flux de l’information pour Arrêt sur images, je vous raconte ma diète médiatique dans ce livre. Auparavant, j'ai publié : 
