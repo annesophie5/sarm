@@ -21,7 +21,7 @@ Cet essai a été écrit en très peu de temps, de mars à juillet 2026 (deux mo
 
 #### Qui est l'autrice ? 
 
-C'est moi ! Je suis journaliste et écrivaine, et après avoir baigné dix ans dans le flux de l’information pour Arrêt sur images, je vous raconte ma diète médiatique dans ce livre. 
+C'est moi ! Je suis journaliste et écrivaine, et après avoir baigné dix ans dans le flux de l’information pour [Arrêt sur images](https://www.arretsurimages.net/), je vous raconte ma diète médiatique dans ce livre. 
 Auparavant, j'ai publié : 
 - **La Crise et moi. Petit manuel de survie au matraquage médiatico-économique** (Arrêt sur images, 2012)
 - **Déclic. Comment profiter du numérique sans tomber dans le piège des géants du Web**, en collaboration avec Maxime Guedj ([Les Arènes](https://www.declic-lelivre.com/), 2020)
