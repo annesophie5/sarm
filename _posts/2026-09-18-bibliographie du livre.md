@@ -1,7 +1,7 @@
 ---
 title: "Bibliographie du livre"
 ---
-# Essais et compagnie 
+### Essais et compagnie 
 
 
 **Jenny Odell**, Pour une résistance oisive. Ne rien faire au 21e siècle, édition Dalva, 2021 (traduction Fabienne Gondrand)
@@ -48,7 +48,7 @@ title: "Bibliographie du livre"
 **Maxime Guedj et Anne-Sophie Jacques**, Déclic. Comment profiter du numérique sans tomber dans le piège des géants du web, Les Arènes, 2020
 
 
-# Fictions
+### Fictions
 
 **Christopher Moore**, Un blues de coyote, Gallimard, 1999
 
