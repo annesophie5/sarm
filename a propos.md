@@ -5,7 +5,7 @@ in_menu: true
 ---
 #### C'est quoi ce site ? 
 
-Ce site, élaboré avec [Scribouilli](https://scribouilli.org/), est consacré au livre _Survivre au réchauffement médiatique_ sorti le 18 septembre 2026 aux éditions [Libertalia](https://librairielibertalia.com/products/survivre-au-rechauffement-mediatique). Vous y trouverez son [actualité](https://sarm-lelivre.fr/actualites.html) et, idéalement, des contenus qui rendent compte de la lutte contre ce réchauffement : vos témoignages, des idées qui me traversent la nuit pendant les insomnies, les interviews que j'aimerais faire ici ou là, les récits consentants de nos rencontres, les (bonnes) humeurs, les petites crises d'angoisse, bref, tout ce qui peut documenter l'intelligence collective (IC) que j'oppose à l'IA. 
+Ce site, élaboré grâce à [Scribouilli 🙏🏽](https://scribouilli.org/), est consacré au livre _Survivre au réchauffement médiatique_ sorti le 18 septembre 2026 aux éditions [Libertalia](https://librairielibertalia.com/products/survivre-au-rechauffement-mediatique). Vous y trouverez son [actualité](https://sarm-lelivre.fr/actualites.html) et, idéalement, des contenus qui rendent compte de la lutte contre ce réchauffement : vos témoignages, des idées qui me traversent la nuit pendant les insomnies, les interviews que j'aimerais faire ici ou là, les récits consentants de nos rencontres, les (bonnes) humeurs, les petites crises d'angoisse, bref, tout ce qui peut documenter l'intelligence collective (IC) que j'oppose à l'IA. 
 
 
 #### Pourquoi ce site ? 
