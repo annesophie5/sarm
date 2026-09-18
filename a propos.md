@@ -10,7 +10,7 @@ Ce site, élaboré grâce à [Scribouilli 🙏🏽](https://scribouilli.org/), e
 
 #### Pourquoi ce site ? 
 
-Parce que je suis pas sur les réseaux sociaux et que j'ai tout de même envie que la vie du livre soit documentée sur le Web. Son audience sera confidentielle, c'est certain, mais le but n'est pas d'attirer le ou la chalande. Le but est d'offrir un espace simple - on peut même dire spartiate - pour s'informer et échanger. Si vous avez envie de contribuer, alors je vous invite à me [contacter](https://sarm-lelivre.fr/contact.html) ou [lire cet article](https://sarm-lelivre.fr/2026/09/17/contribuer-a-ce-site-venez,-c'est-ouvert.html). 
+Parce que je suis pas sur les réseaux sociaux et que j'ai tout de même envie que la vie du livre soit documentée sur le Web. Son audience sera confidentielle, c'est certain, mais le but n'est pas d'attirer le ou la chalande. Le but est d'offrir un espace simple - on peut même dire convivial - pour s'informer et échanger. Si vous avez envie de contribuer, alors je vous invite à me [contacter](https://sarm-lelivre.fr/contact.html) ou [lire cet article](https://sarm-lelivre.fr/2026/09/17/contribuer-a-ce-site-venez,-c'est-ouvert.html). 
 
 
 #### C'est quoi ce livre ?
