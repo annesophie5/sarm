@@ -16,3 +16,5 @@ Après avoir baignée dix ans dans le flux de l’information pour Arrêt sur im
 Découvrir [le sommaire](https://sarm-lelivre.fr/2026/09/17/sommaire-du-livre.html) et [la bibliographie du livre 👀](https://sarm-lelivre.fr/2026/09/18/bibliographie-du-livre.html) 
 
 <a href="https://librairielibertalia.com/products/survivre-au-rechauffement-mediatique" class="bouton">Commandez le livre chez Libertalia</a> 
+
+ <a href="https://www.placedeslibraires.fr/livre/9782377294398-survivre-au-rechauffement-mediatique-anne-sophie-jacques/" class="bouton">Commander le livre dans une autre librairie indépendante près de chez vous</a> 
