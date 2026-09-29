@@ -14,3 +14,5 @@ Après avoir baignée dix ans dans le flux de l’information pour Arrêt sur im
 ![Livre devant une bibliothèque]({% link images/Bibliotheque.jpg %})
 
 Découvrir [le sommaire](https://sarm-lelivre.fr/2026/09/17/sommaire-du-livre.html) et [la bibliographie du livre 👀](https://sarm-lelivre.fr/2026/09/18/bibliographie-du-livre.html) 
+
+<a href="https://librairielibertalia.com/products/survivre-au-rechauffement-mediatique" class="bouton">Commandez le livre chez Libertalia</a> 
