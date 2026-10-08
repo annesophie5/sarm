@@ -5,7 +5,9 @@ in_menu: true
 ---
 _**Dates à venir**_
 
-- Octobre & novembre : diverses rencontres à l'occasion de ma résidence d'écriture aux [Grandes Fenêtres](https://lesgrandesfenetres.fr/) à Excideuil (Dordogne) - _programme à venir_
+- Octobre & novembre : diverses rencontres à l'occasion de ma résidence d'écriture aux [Grandes Fenêtres](https://lesgrandesfenetres.fr/) à Excideuil (Dordogne) dont :
+
+📚 le vendredi 6 novembre à 18h30 à la librairie du Château à Excideuil
 
 
 _**Dates passées**_
