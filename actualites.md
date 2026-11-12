@@ -5,9 +5,15 @@ in_menu: true
 ---
 _**Dates à venir**_
 
-- Octobre & novembre : diverses rencontres à l'occasion de ma résidence d'écriture aux [Grandes Fenêtres](https://lesgrandesfenetres.fr/) à Excideuil (Dordogne) dont :
+- **le mercredi 16 décembre 2026 à 19h30** : rencontre et dédicaces à la librairie Libertalia de la Maison des Métallos, 94 rue Jean-Pierre Timbaud, Paris 11e ⚡️
+
+- **Octobre & novembre 2026** : diverses rencontres à l'occasion de ma résidence d'écriture aux [Grandes Fenêtres](https://lesgrandesfenetres.fr/) à Excideuil (Dordogne) dont :
 
 📚 le vendredi 6 novembre à 18h30 à la librairie du Château à Excideuil
+
+🛠️ le jeudi 26 novembre à 18h à la médiathèque de Lanouaille : Atelier d’intelligence collective pour interroger nos rapports à l’intelligence artificielle
+
+🔰 le samedi 28 novembre à 14h30 à la médiathèque de Lanouaille : Rencontre avec Maxime Guedj, ingénieur et auteur, Lamathilde, artiste, et Julien Mattern, sociologue
 
 
 _**Dates passées**_
