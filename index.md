@@ -3,7 +3,7 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-# Survivre au réchauffement médiatique TEST
+# Survivre au réchauffement médiatique
 
 _« **Lutter contre le réchauffement médiatique**, c’est vouloir sortir du **[brouhaha](https://sarm-lelivre.fr/2026/09/17/sortir-du-brouhaha-ah-ah.html)** et laisser la place aux sujets essentiels auxquels nous devrions consacrer l’ensemble de notre système médiatique, politique, professionnel, éducatif. **Lutter contre le réchauffement médiatique**, c’est permettre aux différentes paroles, qu’elles soient portées par les artistes, les services sociaux, les journalistes, les historiennes, les avocates, les enfants eux-mêmes, d’advenir sans être parasitées ou étouffées. **Lutter contre le réchauffement médiatique**, c’est aider ces paroles à devenir les lances qui finiront par vaincre l’incurie de la classe politique. »_
 
