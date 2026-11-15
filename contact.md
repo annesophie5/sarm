@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 4
+order: 5
 in_menu: true
 ---
 Si vous avez des questions sur le livre et sur la lutte contre le réchauffement médiatique, ou si vous souhaitez témoigner de votre propre expérience, je suis toute ouïe. 
