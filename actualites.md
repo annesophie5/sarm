@@ -18,7 +18,7 @@ _**Dates à venir**_
 
 _**Dates passées**_
 
-- **le lundi 16 novembre** : Intervention dans la matinale d'Au Poste présentée par David Dufresne [à revoir ici >](https://auposte.media/emissions/censure-a-france-inter-cnews-conspuee-crise-interne-a-bfm-sale-temps-pour-les-medias-dominants?autoplay=true)
+- **le lundi 16 novembre** : Intervention dans la matinale d'Au Poste présentée par David Dufresne [à revoir ici >](https://auposte.media/emissions/censure-a-france-inter-cnews-conspuee-crise-interne-a-bfm-sale-temps-pour-les-medias-dominants?autoplay=true) (à partir d'1h14)
 
 - **le samedi 31 octobre** : Intervention dans l'émission _Des poches sous les yeux_ de Radio Béton [à réécouter ici >](https://podcast-radiobeton.com/itw-interview-de-anne-sophie-jacques)
 
