@@ -1,6 +1,6 @@
 ---
 title: "Actualités"
-order: 4
+order: 3
 in_menu: true
 ---
 _**Dates à venir**_
